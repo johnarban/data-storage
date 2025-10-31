@@ -7,14 +7,14 @@
      Name="A Test Survey"
      Url="https://github.com/johnarban/data-storage/raw/refs/heads/main/GumNeb_EBV.fits"
      BaseTileLevel="0"
-     TileLevels="2"
+     TileLevels="0"
      BaseDegreesPerTile="180"
-     FileType=".png"
+     FileType=".fits"
      BottomsUp="False"
      Projection="Toast">
      <Credits>Microsoft</Credits>
      <CreditsUrl>www.microsoft.com</CreditsUrl>
-     <ThumbnailUrl>path to ..... \testsurvey.jpg</ThumbnailUrl>
+     <ThumbnailUrl></ThumbnailUrl>
      <Description />
    </ImageSet>
 </Folder>

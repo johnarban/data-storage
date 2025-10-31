@@ -8,11 +8,9 @@
      Url="https://github.com/johnarban/data-storage/raw/refs/heads/main/GumNeb_EBV.fits"
      BaseTileLevel="0"
      TileLevels="0"
-     BaseDegreesPerTile="180"
      FileType=".fits"
      BottomsUp="False"
-     Projection="Toast">
-     <Credits>Microsoft</Credits>
+     Projection="Tangent">
      <CreditsUrl>www.microsoft.com</CreditsUrl>
      <ThumbnailUrl></ThumbnailUrl>
      <Description />

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder Name="TestSurvey">
+   <ImageSet
+     Generic="False"
+     DataSetType="Sky"
+     BandPass="Visible"
+     Name="A Test Survey"
+     Url="https://github.com/johnarban/data-storage/raw/refs/heads/main/GumNeb_EBV.fits"
+     BaseTileLevel="0"
+     TileLevels="2"
+     BaseDegreesPerTile="180"
+     FileType=".png"
+     BottomsUp="False"
+     Projection="Toast">
+     <Credits>Microsoft</Credits>
+     <CreditsUrl>www.microsoft.com</CreditsUrl>
+     <ThumbnailUrl>path to ..... \testsurvey.jpg</ThumbnailUrl>
+     <Description />
+   </ImageSet>
+</Folder>
